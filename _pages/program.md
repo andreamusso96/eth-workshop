@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /program/
+permalink: /program_alt/
 title: program
 description: Program of the workshop
-nav: true
+nav: false
 nav_order: 5
 ---
 
